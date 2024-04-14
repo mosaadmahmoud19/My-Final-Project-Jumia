@@ -1,3 +1,5 @@
+•ITI Graduation E-commerce Project that sells clothes,shoes and accessories which is made using web Api
+
 Features
 
 The system allows users to browse and purchase different items from different categories
