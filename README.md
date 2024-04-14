@@ -1,4 +1,5 @@
-•ITI Graduation E-commerce Project that sells clothes,shoes and accessories which is made using web Api
+•ITI Graduation Jumia Clone Website is a specialized online marketplace catering to fashion 
+enthusiasts with a diverse range of clothing, footwear, and accessories.
 
 Features
 
